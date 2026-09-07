@@ -2,5 +2,5 @@
   "name": "xvoid",
   "description": "Premium virtual service scraping suite and developer utility hub.",
   "type": "CNAME",
-  "target": "://vercel-dns.com"
+  "target": "cname.vercel-dns.com"
 }
